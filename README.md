@@ -1,3 +1,3 @@
 # axelar_exercise4
 
-docker run -d -t cosmos
+docker run -d cosmos
